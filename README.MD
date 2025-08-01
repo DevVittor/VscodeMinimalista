@@ -10,7 +10,7 @@ Se você curtiu essa configuração minimalista do VS Code, considere deixar uma
 - A manter ele ativo e atualizado 🔄
 - E mostra que você valoriza conteúdo simples e bem feito ❤️
 
-![Screenshot 1](https://i.imgur.com/L9TvP62.png)
+![Screenshot 1](https://i.imgur.com/u10WqSn.png)
 
 | 📌 Basta clicar no botão ⭐️ "Star" no topo da página aqui no GitHub.
 
