@@ -1,0 +1,56 @@
+{
+  "workbench.iconTheme": "symbols",
+  "workbench.startupEditor": "none",
+  "editor.fontSize": 18,
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.lineHeight": 1.8,
+  "editor.fontWeight": "bold",
+  "files.autoSave": "afterDelay",
+  "editor.tabSize": 2,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnType": true,
+  "editor.formatOnSave": true,
+  "workbench.activityBar.location": "bottom",
+  "explorer.compactFolders": false,
+  "editor.minimap.autohide": true,
+  "editor.stickyScroll.enabled": false,
+  "workbench.sideBar.location": "right",
+  "editor.mouseWheelZoom": true,
+  "workbench.statusBar.visible": false,
+  "editor.wordWrap": "on",
+  "editor.scrollbar.vertical": "hidden",
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.verticalScrollbarSize": 0,
+  "editor.scrollbar.horizontalScrollbarSize": 0,
+  "window.menuBarVisibility": "toggle",
+  "breadcrumbs.enabled": false,
+  "editor.rulers": [80, 120],
+  "workbench.editorAssociations": {
+    "*.avi": "default"
+  },
+  "workbench.colorTheme": "Oscura Midnight",
+  "chat.commandCenter.enabled": false,
+  "window.commandCenter": false,
+  "editor.fontLigatures": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "window.titleBarStyle": "custom",
+  "files.associations": {
+    ".env*": "dotenv"
+  },
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "keyword.other.dotenv",
+        "settings": {
+          "foreground": "#FF000000",
+          "fontStyle": "italic"
+        }
+      }
+    ]
+  },
+  "git.autofetch": true,
+  "workbench.tree.enableStickyScroll": false,
+  "workbench.secondarySideBar.defaultVisibility": "hidden",
+  "workbench.secondarySideBar.showLabels": false
+}
