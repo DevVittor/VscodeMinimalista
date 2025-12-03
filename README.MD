@@ -33,7 +33,6 @@ Essa configuração transforma o Visual Studio Code em um ambiente de desenvolvi
 - ✅ Formatação automática com Prettier ao salvar
 - ✅ Salvamento automático com atraso
 - ✅ Word wrap ativado
-- ✅ Zoom com roda do mouse
 - ✅ Importações automáticas ao mover arquivos JS/TS
 - ✅ Linhas guias em `80` e `120` caracteres
 
@@ -41,9 +40,9 @@ Essa configuração transforma o Visual Studio Code em um ambiente de desenvolvi
 
 | Elemento                | Configuração                     |
 | ----------------------- | -------------------------------- |
-| **Tema**                | `Oscura Midnight`                |
+| **Tema**                | `Min Theme`                |
 | **Ícones**              | `symbols`                        |
-| **Fonte**               | `JetBrains Mono` (com ligaduras) |
+| **Fonte**               | `FiraCode` (com ligaduras) |
 | **Tamanho da fonte**    | `18px`                           |
 | **Barra lateral**       | À direita                        |
 | **Barra de atividades** | Na parte inferior                |
@@ -153,7 +152,7 @@ Essa configuração transforma o Visual Studio Code em um ambiente de desenvolvi
 
 ## 👨🏿‍💻 Autor
 
-Feito com foco em minimalismo, performance e design por:
+Feito para manter o foco, minimalismo e performance com design feito por:
 
 **Vittor F. Serra**  
 [GitHub](https://github.com/DevVittor) | [Twitter](https://x.com/vittorFserra)
