@@ -66,12 +66,12 @@ Essa configuração transforma o Visual Studio Code em um ambiente de desenvolvi
 
 ```json
 {
-  "workbench.iconTheme": "symbols",
-  "workbench.startupEditor": "none",
   "editor.fontSize": 18,
-  "editor.fontFamily": "JetBrains Mono",
+  //"editor.fontFamily": "JetBrains Mono",
+  //"editor.fontFamily": "Nixie One",
+  "editor.fontFamily": "FiraCode",
   "editor.lineHeight": 1.8,
-  "editor.fontWeight": "bold",
+  "editor.fontWeight": "400",
   "files.autoSave": "afterDelay",
   "editor.tabSize": 2,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
@@ -79,23 +79,29 @@ Essa configuração transforma o Visual Studio Code em um ambiente de desenvolvi
   "editor.formatOnSave": true,
   "workbench.activityBar.location": "bottom",
   "explorer.compactFolders": false,
-  "editor.minimap.autohide": true,
+  "editor.minimap.autohide": "mouseover",
   "editor.stickyScroll.enabled": false,
   "workbench.sideBar.location": "right",
-  "editor.mouseWheelZoom": true,
+  "editor.mouseWheelZoom": false,
+  "window.zoomLevel": 0,
   "workbench.statusBar.visible": false,
   "editor.wordWrap": "on",
   "editor.scrollbar.vertical": "hidden",
   "editor.scrollbar.horizontal": "hidden",
   "editor.scrollbar.verticalScrollbarSize": 0,
   "editor.scrollbar.horizontalScrollbarSize": 0,
+  "workbench.editor.labelFormat": "short",
+  "workbench.editor.tabSizing": "fit",
+  "window.title": " ",
   "window.menuBarVisibility": "toggle",
   "breadcrumbs.enabled": false,
   "editor.rulers": [80, 120],
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  "typescript.preferences.importModuleSpecifierEnding": "js",
   "workbench.editorAssociations": {
     "*.avi": "default"
   },
-  "workbench.colorTheme": "Oscura Midnight",
+  "workbench.colorTheme": "Min Dark",
   "chat.commandCenter.enabled": false,
   "window.commandCenter": false,
   "editor.fontLigatures": true,
@@ -119,7 +125,22 @@ Essa configuração transforma o Visual Studio Code em um ambiente de desenvolvi
   "git.autofetch": true,
   "workbench.tree.enableStickyScroll": false,
   "workbench.secondarySideBar.defaultVisibility": "hidden",
-  "workbench.secondarySideBar.showLabels": false
+  "workbench.secondarySideBar.showLabels": false,
+  "git.confirmSync": false,
+  "workbench.layoutControl.enabled": false,
+  "chat.instructionsFilesLocations": {
+    ".github/instructions": true,
+    "/tmp/postman-collections-post-response.instructions.md": true,
+    "/tmp/postman-collections-pre-request.instructions.md": true,
+    "/tmp/postman-folder-post-response.instructions.md": true,
+    "/tmp/postman-folder-pre-request.instructions.md": true,
+    "/tmp/postman-http-request-post-response.instructions.md": true,
+    "/tmp/postman-http-request-pre-request.instructions.md": true
+  },
+  "workbench.iconTheme": "symbols",
+  "mdb.mcp.server": "prompt",
+  "terminal.integrated.stickyScroll.enabled": false,
+  "terminal.integrated.fontFamily": "monospace"
 }
 ```
 
