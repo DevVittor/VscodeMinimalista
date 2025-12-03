@@ -57,6 +57,7 @@ Essa configuração transforma o Visual Studio Code em um ambiente de desenvolvi
   - [Symbols](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols)
   - [Oscura Theme (Oscura Midnight)](https://marketplace.visualstudio.com/items?itemName=Fey.oscura)
 - Fonte recomendada:
+  - [FiraCode](https://github.com/tonsky/FiraCode)
   - [JetBrains Mono](https://www.jetbrains.com/pt-br/lp/mono/)
 
 ## 🔧 Acesso o Arquivo de Configuração `settings.json`
