@@ -68,7 +68,6 @@ Essa configuração transforma o Visual Studio Code em um ambiente de desenvolvi
 {
   "editor.fontSize": 18,
   //"editor.fontFamily": "JetBrains Mono",
-  //"editor.fontFamily": "Nixie One",
   "editor.fontFamily": "FiraCode",
   "editor.lineHeight": 1.8,
   "editor.fontWeight": "400",
