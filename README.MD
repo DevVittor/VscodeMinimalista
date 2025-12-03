@@ -16,9 +16,9 @@ Se você curtiu essa configuração minimalista do VS Code, considere deixar uma
 
 ## 🖼️ Aparência do VS Code Minimalista
 
-| ![Screenshot 1](https://i.imgur.com/t5H3urC.png) | ![Screenshot 2](https://i.imgur.com/SRMxjcu.png) |
+| ![Screenshot 1](https://i.imgur.com/0UCpN5n.png) | ![Screenshot 2](https://i.imgur.com/hk3P8rr.png) |
 | ------------------------------------------------ | ------------------------------------------------ |
-| ![Screenshot 3](https://i.imgur.com/2YPyNBc.png) | ![Screenshot 4](https://i.imgur.com/4G1qTCz.png) |
+| ![Screenshot 3](https://i.imgur.com/v58U8qM.png) | ![Screenshot 4](https://i.imgur.com/E3oWbha.png) |
 
 ## 🎯 Objetivo
 
