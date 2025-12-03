@@ -55,7 +55,8 @@ Essa configuração transforma o Visual Studio Code em um ambiente de desenvolvi
 - Extensão recomendada:
   - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
   - [Symbols](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols)
-  - [Oscura Theme (Oscura Midnight)](https://marketplace.visualstudio.com/items?itemName=Fey.oscura)
+  - [Min Theme](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.min-theme) | **Usado**
+  - [Oscura Theme (Oscura Midnight)](https://marketplace.visualstudio.com/items?itemName=Fey.oscura) | **Opicional**
 - Fonte recomendada:
   - [FiraCode](https://github.com/tonsky/FiraCode)
   - [JetBrains Mono](https://www.jetbrains.com/pt-br/lp/mono/)
